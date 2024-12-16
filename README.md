@@ -1,69 +1,7 @@
 
 <div class='post-title'><h1>Tải về gói ngôn ngữ và hướng dẫn tích hợp vào bộ cài Windows 10 version 1709</h1></div>
 <div class='post-meta'>
-<span class='post-author'>ĐỊA CHÍNH CÔNG TRÌNH</span>
-<span class='post-timestamp'>October 23, 2017
-Monday, October 23, 2017</span>
-</div>
-<div class='post-social'>
-<div class='fb-like' data-action='like' data-href='https://www.diachinhcongtrinh.com/' data-layout='standard' data-show-faces='true' data-size='large'></div>
-<span class='printBtn'></span>
-<div class='email-popup ma-share' title='Gửi email cho tác giả'></div>
-<div class='btn-popup' role='alert'>
-<div class='btn-popup-container'>
-<h2>gửi email cho tác giả</h2><br/><br/>
-<form name='contact-form'>
-<div class='blanterinput'>
-<input class='validate' id='ContactForm1_contact-form-name' name='name' required='' type='text' value=''/>
-<span class='highlight'></span>
-<span class='bar'></span>
-<label><i class='fa fa-user'></i>&nbsp;&nbsp;Họ tên</label>
-</div>
-<div class='blanterinput'>
-<input class='validate' id='ContactForm1_contact-form-email' name='email' required='' type='email' value=''/>
-<span class='highlight'></span>
-<span class='bar'></span>
-<label><i class='fa fa-envelope'></i>&nbsp;&nbsp;Email của bạn</label>
-</div>
-<div class='blanterinput'>
-<textarea class='validate' cols='25' id='ContactForm1_contact-form-email-message' name='email-message' required='' rows='5'></textarea>
-<span class='highlight'></span>
-<span class='bar'></span>
-<label><i class='fa fa-microphone'></i>&nbsp;&nbsp;Nội dung</label>
-</div>
-<input id='ContactForm1_contact-form-submit' type='button' value='Gửi email'/>
-<div id='ContactForm1_contact-form-error-message'>
-</div>
-<div id='ContactForm1_contact-form-success-message'>
-</div>
-</form>
-<a class='btn-popup-close img-replace'></a>
-</div>
-</div>
-</div>
-</div>
-<div class='klw-new-content'>
-<div class='knc-menu-nav'>
-<div class='kmn-wrapper'>
-<div class='kmnw-content'>
-<div class='kc-item kc-home'><a class='icon-kch' href='https://www.diachinhcongtrinh.com/' title='Home'></a></div>
-<div class='kc-item kc-facebook icon-kcf' id='feedBtn'><a class='icon-kcf' href='http://www.facebook.com/sharer.php?u=https://www.diachinhcongtrinh.com/2017/10/tai-ve-goi-ngon-ngu-va-huong-dan-tich.html&title=Tải về gói ngôn ngữ và hướng dẫn tích hợp vào bộ cài Windows 10 version 1709' title='Đăng bài viết này lên dòng thời gian của bạn'></a></div>
-<div class='kc-item kc-messenger' id='sendBtn'><a class='icon-kcm' title='Gửi bài viết này cho bạn bè'></a></div>
-</div>
-</div>
-</div>
-<p class='post-metaDescription'>
-</p>
-<div class='related-post' id='related-post'>
-<script>
-      var labelArray = ["rebuild"];
-      var relatedPostConfig = {
-        homePage: "/",   
-        numPosts: 3,
-        containerId: "related-post",
-        callBack: function() {}
-      };
-    </script>
+
 </div>
 </div>
 <div class='post-body' id='post-body'>
